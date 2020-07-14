@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "9de1108c-3a5e-3923-813d-b58a0e1b7538",
+    "name": "ZEROL41N",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "60e889ea-bcf4-3fe6-a3fd-0e43da0de54b",
+    "name": "Fil",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
